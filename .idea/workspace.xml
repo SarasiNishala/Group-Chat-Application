@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92cd0676-9aba-47e3-9996-47f719d54704" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/Appinitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/controller/ClientFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/server/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/emojis/angry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/emojis/cool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/emojis/happy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/emojis/laugh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/emojis/sad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/emojis/woow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/emoji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/chatWallapaer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/chatlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/style/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/Chat.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/Login.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2bLiMQsZA44POHBQuDrTfiEfKaa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Appinitializer.executor": "Run",
+    "Application.Server.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Sarasi Nishala/IdeaProjects/Group_Chat_Application/src/main/java/lk/ijse/controller",
+    "onboarding.tips.debug.path": "C:/Users/Sarasi Nishala/IdeaProjects/Group_Chat_Application/src/main/java/lk/ijse/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sarasi Nishala\IdeaProjects\Group_Chat_Application\src\main\java\lk\ijse\controller" />
+      <recent name="C:\Users\Sarasi Nishala\IdeaProjects\Group_Chat_Application\src\main\java\lk\ijse" />
+      <recent name="C:\Users\Sarasi Nishala\IdeaProjects\Group_Chat_Application\src\main\resources\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sarasi Nishala\IdeaProjects\Group_Chat_Application\src\main\resources\images" />
+      <recent name="C:\Users\Sarasi Nishala\IdeaProjects\Group_Chat_Application\src\main\resources" />
+      <recent name="C:\Users\Sarasi Nishala\IdeaProjects\Group_Chat_Application\src\main\resources\icons" />
+      <recent name="C:\Users\Sarasi Nishala\IdeaProjects\Group_Chat_Application\src\main\resources\emojis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Appinitializer">
+    <configuration name="Appinitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.Appinitializer" />
+      <module name="Group_Chat_Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.server.Server" />
+      <module name="Group_Chat_Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Appinitializer" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92cd0676-9aba-47e3-9996-47f719d54704" name="Changes" comment="" />
+      <created>1706000716700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706000716700</updated>
+    </task>
+    <servers />
+  </component>
+</project>
